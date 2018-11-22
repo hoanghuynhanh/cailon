@@ -1,0 +1,22 @@
+{
+  "name": "cailon",
+  "version": "1.0.0",
+  "description": "du an cai lon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoanghuynhanh/cailon.git"
+  },
+  "author": "HuynhAnh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoanghuynhanh/cailon/issues"
+  },
+  "homepage": "https://github.com/hoanghuynhanh/cailon#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
