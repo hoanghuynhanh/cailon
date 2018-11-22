@@ -1,0 +1,20 @@
+{
+  "name": "cailon",
+  "description": "du an cai lon",
+  "main": "index.js",
+  "authors": [
+    "HuynhAnh"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hoanghuynhanh/cailon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
